@@ -1,1 +1,1 @@
-ecom-laravel
+ecommerce
